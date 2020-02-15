@@ -161,11 +161,6 @@ p {
          grid-column: span 2;
      }
 
-     #section-b ul {
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        grid-column-gap: 1em;
-      }
      
      
 }
