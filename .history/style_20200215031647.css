@@ -110,13 +110,9 @@ p {
     padding: 2em;
 }
 
-/* Section D / Boxes */
+/* Section D */
 
 #section-d .box {
-    padding: 2em;
+    padding: 10em;
     color: #fff;
-}
-
-#section-d .box:first-child {
-    background: #2690d4;
 }

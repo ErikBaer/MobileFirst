@@ -109,14 +109,3 @@ p {
     color: #333;
     padding: 2em;
 }
-
-/* Section D / Boxes */
-
-#section-d .box {
-    padding: 2em;
-    color: #fff;
-}
-
-#section-d .box:first-child {
-    background: #2690d4;
-}
