@@ -163,7 +163,6 @@ p {
 
      #section-b ul {
          display:flex;
-         justify-content: space-around;
      }
 
      #section-b li {
