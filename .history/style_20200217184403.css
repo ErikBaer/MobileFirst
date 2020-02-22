@@ -95,12 +95,11 @@ p {
     margin-bottom: 1em;
     background: #fff;
     color: #333;
-    width: 100%;
 
 }
 
 .card-content {
-    padding: 1.5em;
+    /* padding: 1.5em; */
 }
 
 /* Section c */
